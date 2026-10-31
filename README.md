@@ -14,7 +14,7 @@ Tested on a MacBook Air (6,2) running Linux Mint with Cinnamon 6.6. On other har
 ## Install
 
 ```sh
-git clone <this repo> && cd cinnamon-kbd-backlight
+git clone https://github.com/jdtanner/cinnamon-kbd-backlight.git && cd cinnamon-kbd-backlight
 ./install.sh
 ```
 
