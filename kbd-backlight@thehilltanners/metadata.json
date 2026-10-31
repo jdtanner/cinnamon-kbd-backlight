@@ -1,0 +1,6 @@
+{
+    "uuid": "kbd-backlight@thehilltanners",
+    "name": "Keyboard Backlight",
+    "description": "Shows keyboard backlight level; scroll to adjust, click for slider, middle-click to toggle",
+    "max-instances": 1
+}
